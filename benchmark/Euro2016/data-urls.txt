@@ -1,1 +1,1 @@
-http://event.cwi.nl/da/PublicBIbenchmark/Euro2016/Euro2016_1.csv.bz2
+https://pub-334c2a12c9bf46f3b8464a8718df8cae.r2.dev/Euro2016/Euro2016_1.csv.bz2

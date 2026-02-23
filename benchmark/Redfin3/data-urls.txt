@@ -1,2 +1,2 @@
-http://event.cwi.nl/da/PublicBIbenchmark/Redfin3/Redfin3_1.csv.bz2
-http://event.cwi.nl/da/PublicBIbenchmark/Redfin3/Redfin3_2.csv.bz2
+https://pub-334c2a12c9bf46f3b8464a8718df8cae.r2.dev/Redfin3/Redfin3_1.csv.bz2
+https://pub-334c2a12c9bf46f3b8464a8718df8cae.r2.dev/Redfin3/Redfin3_2.csv.bz2

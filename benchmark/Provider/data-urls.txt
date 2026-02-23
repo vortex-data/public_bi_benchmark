@@ -1,8 +1,8 @@
-http://event.cwi.nl/da/PublicBIbenchmark/Provider/Provider_1.csv.bz2
-http://event.cwi.nl/da/PublicBIbenchmark/Provider/Provider_2.csv.bz2
-http://event.cwi.nl/da/PublicBIbenchmark/Provider/Provider_3.csv.bz2
-http://event.cwi.nl/da/PublicBIbenchmark/Provider/Provider_4.csv.bz2
-http://event.cwi.nl/da/PublicBIbenchmark/Provider/Provider_5.csv.bz2
-http://event.cwi.nl/da/PublicBIbenchmark/Provider/Provider_6.csv.bz2
-http://event.cwi.nl/da/PublicBIbenchmark/Provider/Provider_7.csv.bz2
-http://event.cwi.nl/da/PublicBIbenchmark/Provider/Provider_8.csv.bz2
+https://pub-334c2a12c9bf46f3b8464a8718df8cae.r2.dev/Provider/Provider_1.csv.bz2
+https://pub-334c2a12c9bf46f3b8464a8718df8cae.r2.dev/Provider/Provider_2.csv.bz2
+https://pub-334c2a12c9bf46f3b8464a8718df8cae.r2.dev/Provider/Provider_3.csv.bz2
+https://pub-334c2a12c9bf46f3b8464a8718df8cae.r2.dev/Provider/Provider_4.csv.bz2
+https://pub-334c2a12c9bf46f3b8464a8718df8cae.r2.dev/Provider/Provider_5.csv.bz2
+https://pub-334c2a12c9bf46f3b8464a8718df8cae.r2.dev/Provider/Provider_6.csv.bz2
+https://pub-334c2a12c9bf46f3b8464a8718df8cae.r2.dev/Provider/Provider_7.csv.bz2
+https://pub-334c2a12c9bf46f3b8464a8718df8cae.r2.dev/Provider/Provider_8.csv.bz2

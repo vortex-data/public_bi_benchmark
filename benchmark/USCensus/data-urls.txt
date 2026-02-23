@@ -1,3 +1,3 @@
-http://event.cwi.nl/da/PublicBIbenchmark/USCensus/USCensus_1.csv.bz2
-http://event.cwi.nl/da/PublicBIbenchmark/USCensus/USCensus_2.csv.bz2
-http://event.cwi.nl/da/PublicBIbenchmark/USCensus/USCensus_3.csv.bz2
+https://pub-334c2a12c9bf46f3b8464a8718df8cae.r2.dev/USCensus/USCensus_1.csv.bz2
+https://pub-334c2a12c9bf46f3b8464a8718df8cae.r2.dev/USCensus/USCensus_2.csv.bz2
+https://pub-334c2a12c9bf46f3b8464a8718df8cae.r2.dev/USCensus/USCensus_3.csv.bz2

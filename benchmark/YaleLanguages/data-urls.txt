@@ -1,5 +1,5 @@
-http://event.cwi.nl/da/PublicBIbenchmark/YaleLanguages/YaleLanguages_1.csv.bz2
-http://event.cwi.nl/da/PublicBIbenchmark/YaleLanguages/YaleLanguages_2.csv.bz2
-http://event.cwi.nl/da/PublicBIbenchmark/YaleLanguages/YaleLanguages_3.csv.bz2
-http://event.cwi.nl/da/PublicBIbenchmark/YaleLanguages/YaleLanguages_4.csv.bz2
-http://event.cwi.nl/da/PublicBIbenchmark/YaleLanguages/YaleLanguages_5.csv.bz2
+https://pub-334c2a12c9bf46f3b8464a8718df8cae.r2.dev/YaleLanguages/YaleLanguages_1.csv.bz2
+https://pub-334c2a12c9bf46f3b8464a8718df8cae.r2.dev/YaleLanguages/YaleLanguages_2.csv.bz2
+https://pub-334c2a12c9bf46f3b8464a8718df8cae.r2.dev/YaleLanguages/YaleLanguages_3.csv.bz2
+https://pub-334c2a12c9bf46f3b8464a8718df8cae.r2.dev/YaleLanguages/YaleLanguages_4.csv.bz2
+https://pub-334c2a12c9bf46f3b8464a8718df8cae.r2.dev/YaleLanguages/YaleLanguages_5.csv.bz2
